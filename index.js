@@ -5,12 +5,12 @@ var prefix = "//";
 const firebase = require('firebase');
 const Canvas = require('canvas');
 const firebaseConfig = {
-    apiKey: "AIzaSyCVCcD4lkoEU6BfH4hU9zxnFM1g7KLNQQg",
-    authDomain: "no-man-s-sky-adventure.firebaseapp.com",
-    projectId: "no-man-s-sky-adventure",
-    storageBucket: "no-man-s-sky-adventure.appspot.com",
-    messagingSenderId: "490233688478",
-    appId: "1:490233688478:web:d7458d05c8dc35ea11668f"
+    apiKey: "",
+    authDomain: "",
+    projectId: "",
+    storageBucket: "",
+    messagingSenderId: "",
+    appId: ""
   };
   const disbut = require('discord-buttons');
   disbut(client);
